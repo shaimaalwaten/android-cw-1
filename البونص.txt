@@ -1,0 +1,9 @@
+public class HelloWorld{
+
+     public static void main(String []args){
+        String name = "shaima";
+        String name1 = "alazmi";
+System.out.println(name+name1);
+        
+     }
+}
